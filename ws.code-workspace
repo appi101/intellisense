@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cmake.buildDirectory": "${workspaceRoot}/out",
+		"C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+		"files.associations": {
+			"cstdio": "cpp"
+		}
+	}
+}
